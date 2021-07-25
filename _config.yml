@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Si Yeon, Han"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/my.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a junior developer."
   location         : "Republic of Korea"
   email            : "hansi0121@naver.com"
