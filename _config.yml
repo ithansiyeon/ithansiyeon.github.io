@@ -330,7 +330,7 @@ docs:
         url: /docs/configuration/
         
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
+        repo="ithansiyeon/ithansiyeon.github.io"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
