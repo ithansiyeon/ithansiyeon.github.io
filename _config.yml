@@ -30,7 +30,10 @@ masthead_title           : "기록하는 개발자 Blog" # overrides the website
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider: "utterances"
+  utterances:
+  theme: "github-light" # "github-dark"
+  issue_term: "pathname"
   disqus:
     shortname            : ithansiyeon # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -328,3 +331,11 @@ docs:
     children:
       - title: "Configuration"
         url: /docs/configuration/
+        
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>        
